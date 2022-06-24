@@ -7,11 +7,11 @@ func Demo1() {
 	fmt.Println(text)
 	var tax int = 25
 	fmt.Println(tax)
-
+	fmt.Println(tax)
 	var taxFloat float64 = 25.58
 	fmt.Println(taxFloat)
 
-	//go'ya ozgu veri tanimlama
+	//go'ya ozgu veri
 	tax3 := 40
 	fmt.Println(tax3)
 }
